@@ -11,7 +11,7 @@
 ![PHP](svg/php.svg "PHP")
 ![MySQL](svg/mysql.svg "MySQL")
 
-### - Technologies maitrisés 👨‍💻
+### - Technologies maitrisées 👨‍💻
 
 ![SYMFONY](svg/symfony.svg "SYMFONY")
 ![REACT](svg/react.svg "REACT")
